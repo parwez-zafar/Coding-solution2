@@ -1,6 +1,8 @@
 # Coding-solution2
 Question link :- https://codeforces.com/problemset/problem/1472/B
+
 Submission link :- https://codeforces.com/contest/1472/submission/112189060
+
 Source code :- 
 
             #include<iostream>
